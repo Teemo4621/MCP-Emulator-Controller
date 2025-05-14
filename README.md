@@ -16,6 +16,7 @@ This is a project to study the usage of MCP Server. This MCP Server project can 
 
 ## 📷 Demo Video
 
+https://github.com/user-attachments/assets/a9d62f72-ae06-4887-ac71-acda6c31e1de
 
 ## 📋 Requirements
 
