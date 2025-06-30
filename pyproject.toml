@@ -9,4 +9,5 @@ dependencies = [
     "mcp[cli]>=1.8.0",
     "opencv-python>=4.11.0.86",
     "shortpath83>=0.12",
+    "Pillow>=11.1.0",
 ]
